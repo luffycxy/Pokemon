@@ -1,0 +1,35 @@
+Pikachu
+Thunderbolt
+125
+Electro Ball
+50
+Quick Attack
+90
+Charmander
+Scratch
+60
+Ember
+40
+Flame Burst 
+80
+Squirtle 
+Tackle
+60
+Bubble
+80
+Water Pulse 
+90
+Spearow 
+Peck
+80
+Quick Attack
+90
+Body Slam
+125
+Bulbasaur 
+Tackle
+60
+Vine Whip
+85
+Sludge Bomb
+150
